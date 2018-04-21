@@ -1,0 +1,10 @@
+{
+  "name": "npki-html5-loader",
+  "version": "1.0.0",
+  "description": "별도의 프로그램 설치 없이 html5으로 공인인증서를 불러오는 데모입니다",
+  "main": "index.js",
+  "repository": "https://github.com/cheolee/npki-html5-loader.git",
+  "author": "lmyl0910@gmail.com",
+  "license": "MIT",
+  "private": false
+}
